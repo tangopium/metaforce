@@ -24,7 +24,7 @@ EOL
   s.add_dependency 'savon', '~> 2.12.0'
   s.add_dependency 'rubyzip', '~> 1.0.0'
   s.add_dependency 'activesupport'
-  s.add_dependency 'hashie', '~> 3.4.6'
+  s.add_dependency 'hashie', '~> 3.5.7'
   s.add_dependency 'thor', '~> 0.20.3'
   s.add_dependency 'listen', '~> 3.1.5'
   s.add_dependency 'rb-fsevent', '~> 0.10.3'
